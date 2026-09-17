@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0039-combination-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
