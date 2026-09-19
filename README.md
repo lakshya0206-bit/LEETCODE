@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
