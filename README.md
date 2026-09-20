@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
