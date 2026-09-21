@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -80,14 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
