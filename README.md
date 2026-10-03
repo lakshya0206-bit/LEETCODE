@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0162-find-peak-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
