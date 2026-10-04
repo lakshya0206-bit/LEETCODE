@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Quicksort
