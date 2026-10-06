@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0202-happy-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
