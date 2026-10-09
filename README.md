@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
