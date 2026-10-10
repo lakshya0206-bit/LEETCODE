@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
