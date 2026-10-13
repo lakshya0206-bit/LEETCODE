@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0986-interval-list-intersections) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
