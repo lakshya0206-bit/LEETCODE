@@ -4,44 +4,43 @@ public:
 
         vector<vector<int>> ans;
 
-        int n = a.size();
-        int i = 0;
+        int start1 = b[0];
+        int end1 = b[1];
 
-        int start2 = b[0];
-        int end2 = b[1];
+        bool insert = false;
 
-        while (i < n)
+        for(int i = 0; i < a.size(); i++)
         {
-            int start1 = a[i][0];
-            int end1 = a[i][1];
+            int start2 = a[i][0];
+            int end2 = a[i][1];
 
-            if (end1 < start2)
+            if(end2 < start1)
             {
-                ans.push_back({start1, end1});
+                ans.push_back({start2,end2});
             }
-            else if (start1 > end2)
+            else if(start2 > end1)
             {
-                ans.push_back({start2, end2});
-
-                while (i < n)
+                if(insert == false)
                 {
-                    ans.push_back(a[i]);
-                    i++;
+                    ans.push_back({start1, end1});
+                    insert = true;
                 }
 
-                return ans;
+                ans.push_back({start2,end2});
             }
-            else
-            {
-                start2 = min(start1, start2);
-                end2 = max(end1, end2);
+            else{
+                start1 = min(start1, start2);
+                end1 = max(end1, end2);
             }
-
-            i++;
         }
 
-        ans.push_back({start2, end2});
+        if(insert == false)
+        {
+            ans.push_back({start1, end1});
+        }
 
         return ans;
     }
 };
+
+   
