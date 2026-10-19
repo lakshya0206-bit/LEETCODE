@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
