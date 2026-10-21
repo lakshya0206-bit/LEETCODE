@@ -11,7 +11,9 @@ public:
 
         for(int i  = 0; i < nums.size(); i++)
         {
-          
+            
+            
+          //  left = left + nums[i];
             int right = sum - nums[i] - left;
 
             if(left == right)
