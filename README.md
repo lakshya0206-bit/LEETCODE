@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Stack
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Newton's Method
 |  |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
