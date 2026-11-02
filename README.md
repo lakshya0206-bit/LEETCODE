@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -275,8 +280,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
