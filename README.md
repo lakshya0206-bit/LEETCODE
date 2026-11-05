@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
