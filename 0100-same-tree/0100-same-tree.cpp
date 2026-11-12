@@ -23,9 +23,9 @@ public:
         return false;
 
         bool p1 = isSameTree(p-> left, q-> left);
-        bool p2 = isSameTree(p->right, q-> right);
+        bool q1 = isSameTree(p->right, q-> right);
 
-        if(p1 == true && p2 == true)
+        if(p1 == true && q1 == true)
         return true;
 
     return false;    
