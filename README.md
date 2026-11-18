@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0392-is-subsequence) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0502-ipo) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0630-course-schedule-iii) |
