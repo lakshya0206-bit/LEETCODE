@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3477-fruits-into-baskets-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3477-fruits-into-baskets-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -388,4 +390,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
