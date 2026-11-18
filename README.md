@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0162-find-peak-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0202-happy-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lakshya0206-bit/LEETCODE/tree/master/0226-invert-binary-tree) |
